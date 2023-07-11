@@ -1,3 +1,10 @@
+## Welcome to the Flow Tokenomics Working Group (TWG)
+
+### Introduction
+
+Flow — the decentralized, public, layer-one blockchain designed for building Web3 experiences for mainstream users — is launching a Technical Working Group (TWG) to focus on enhancing FLOW token economics. The working group will be responsible for researching, discussing, and implementing improvements to the economic design of Flow's native token, FLOW, and its use-cases, with a focus on driving network security, decentralization and FLOW’s value proposition. The group will be open to experts in blockchain, economics, mathematics, game theory, data analytics, marketing, and related fields, who will work closely with the community to ensure that decisions are data-driven, technically sound, and aligned with the goals of the Flow community.
+
+
 # Repository template
 A template enabled repository, including all necesary files to open source.
 (create an issue with the following content if you want to track the repo configuration)
