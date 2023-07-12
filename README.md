@@ -27,31 +27,3 @@ The constitution and governance of the TWG will be designed to ensure fairness, 
 ### New Members
 
 The entire Flow community is eligible to nominate members of the TWG, and can do so by filling out the [**nomination form**](https://forms.gle/z5jYdqqAtWrQ18447). The nomination should include a brief description of the nominee's qualifications, experience, and skills, along with a statement of support from the nominator. The TWG will periodically review nominations and make decisions based on the nominee's qualifications and the group’s needs.
-
----
-
-The following needs to be deleted before taking the repo public
-
-# Repository template
-A template enabled repository, including all necesary files to open source.
-(create an issue with the following content if you want to track the repo configuration)
-
-## Repository settings and configuration
-- [x]  Repository info
-    - [ ]  Add repo description
-    - [x]  Update website to https://onflow.org
-    - [ ]  Add relevant repository topics (i.e. `blockchain` `onflow`, etc)
-    - [ ]  Check issue labels on `.github/labels.yml` and do any commit to main to get them synced
-- [ ]  Define merge workflow (create new branch protection rule)
-    - [ ]  `main` branch rule:
-        - [ ]  **Require pull request reviews before merging (2 approving reviews)**
-            - [ ]  **Require review from Code Owners**
-        - [ ]  **Require status checks to pass before merging**
-            - [ ]  **Require branches to be up to date before merging**
-        - [ ]  **Require linear history**
-        - [ ]   **Restrict who can push to matching branches**
-            - [ ]  Choose `onflow/flow` team
-
-- [ ]  Add necessary team members, adjust access levels
-    - [ ]  `onflow/flow-admin` ⇒ Admin access
-    - [ ]  `onflow/flow-engineering ` ⇒ Write access
