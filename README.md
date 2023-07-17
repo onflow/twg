@@ -9,11 +9,17 @@ The Flow Tokenomics Working Group (TWG) has been established as part of Flow's c
 The governance of the TWG prioritizes fairness, transparency, and accountability through the following measures:
 
 •	*Tenets*: The TWG prioritizes inclusivity, transparency, accountability, innovation, and decentralization.
+
 •	*Membership*: The TWG is open to all, allowing representatives from the Flow Foundation, developers, researchers, community members, and industry experts to nominate experts for membership.
+
 •	*Roles and Responsibilities*: Clear definitions and communication of areas of responsibility, key tasks, timelines, and deliverables ensure accountability and transparency.
+
 •	*Decision-making*: Consensus-based decision-making with equal voting rights for all members ensures democratic decision-making.
+
 •	*Meetings*: Regular meetings provide a platform for progress discussions, idea sharing, and decision-making, open to all members.
+
 •	*Documentation*: All decisions, discussions, and outcomes are documented, with meeting minutes, decision logs, and progress reports shared openly for public view and commentary.
+
 •	*Review and Evaluation*: Periodic reviews and evaluations, including community feedback, ensure the TWG's objectives are being met.
 
 ### Roles & Responsibilities
@@ -21,29 +27,31 @@ The governance of the TWG prioritizes fairness, transparency, and accountability
 The TWG is responsible for analyzing challenges, designing innovative solutions, and engaging and educating the community. Key responsibilities include:
 
 •	Analyzing: Conducting data analysis on Flow blockchain, gathering user surveys, and incorporating community feedback to identify key problem areas in Flow token economics.
+
 •	Innovating: Proposing feasible changes to the Flow protocol, governance mechanisms, and related aspects to improve economic design, enhance decentralization, and contribute to the long-term success of the Flow ecosystem.
+
 •	Engaging: Gathering community feedback, ensuring alignment with the needs and values of the Flow community, and providing education on outstanding issues and proposed solutions.
 
 ### Founding Members
 
 The TWG consists of talented individuals selected through a community-led process. Founding members possess expertise in economics, engineering, game development, marketing, and community management. This diverse team leverages backgrounds in blockchain technology, mathematics, game theory, data analytics, and relevant fields to address token economics challenges and opportunities within the Flow ecosystem. Their holistic understanding allows for well-informed decisions and a comprehensive approach to enhancing Flow Tokenomics.
 
-*Deniz Edincik* -	OG community member, serial founder, game developer, with math and engineering background
-*Reda Benkirane* -	OG community member, marketing and digital executive with 15+ years of cross-industry experience
-*Anthony Darvall* -	Founder @ Traderflow, Macroeconomist, ex- Head Forex Dealer @ EasyMarkets
-*Dan Malinovski* -	Co-founder & CEO @ Simplicity Group, Token Architect, Economist
-*Michael Levy* -	Co-founder @flowty, Early Flow community member, OG Topshot collector
-*"bz"* -	Co-founder @ Flowverse, Flow Ambassador, Cadence Developer
-*Antoni Palazzolo* -	Founder @ Barter Yard Club (NFT swap tool & NFT collection on Flow)
-*Jonny* -	IncrementiFi core team, Cadence & Solidity developer; Solid background in DeFi and Tokenomics
-*Lubos Svolik* -	Founder @ crypto community bitcoach.org, NuFi product leader; Winner of Flow hackathon
-*Bjarte Stien Karlsen* -	OG flow community member, Creator of find.xyz, FLIP author, Service-Account signer
-*Luca Basile* -	CEO @ Flovatar, Dapp developer, Active community member
-*Lucas Myers* -	Engineering @ evaluate.xyz, Flow dApp developer; 7 years of software and data science experience
-*Nishanta Dharmaseri* -	Co-founder @ Flowverse, background in economics and actuaries
-*Sean Robb* -	EM @ Dapper Wallet, ex-Mastercard, 10 years of engineering experience
-*Lucas Naundorf* -	Flow Validator @ Deutsche Telekom MMS, Blockchain Consultant and Product Owner (staking)
-*Kshitij Chaudhary* -	Tokenomist @ Flow, ex-Amazon PM, trained in microeconomics & business
+* *Deniz Edincik* -	OG community member, serial founder, game developer, with math and engineering background
+* *Reda Benkirane* -	OG community member, marketing and digital executive with 15+ years of cross-industry experience
+* *Anthony Darvall* -	Founder @ Traderflow, Macroeconomist, ex- Head Forex Dealer @ EasyMarkets
+* *Dan Malinovski* -	Co-founder & CEO @ Simplicity Group, Token Architect, Economist
+* *Michael Levy* -	Co-founder @flowty, Early Flow community member, OG Topshot collector
+* *"bz"* -	Co-founder @ Flowverse, Flow Ambassador, Cadence Developer
+* *Antoni Palazzolo* -	Founder @ Barter Yard Club (NFT swap tool & NFT collection on Flow)
+* *Jonny* -	IncrementiFi core team, Cadence & Solidity developer; Solid background in DeFi and Tokenomics
+* *Lubos Svolik* -	Founder @ crypto community bitcoach.org, NuFi product leader; Winner of Flow hackathon
+* *Bjarte Stien Karlsen* -	OG flow community member, Creator of find.xyz, FLIP author, Service-Account signer
+* *Luca Basile* -	CEO @ Flovatar, Dapp developer, Active community member
+* *Lucas Myers* -	Engineering @ evaluate.xyz, Flow dApp developer; 7 years of software and data science experience
+* *Nishanta Dharmaseri* -	Co-founder @ Flowverse, background in economics and actuaries
+* *Sean Robb* -	EM @ Dapper Wallet, ex-Mastercard, 10 years of engineering experience
+* *Lucas Naundorf* -	Flow Validator @ Deutsche Telekom MMS, Blockchain Consultant and Product Owner (staking)
+* *Kshitij Chaudhary* -	Tokenomist @ Flow, ex-Amazon PM, trained in microeconomics & business
 
 ### New Members
 
@@ -57,12 +65,12 @@ The latest meeting details, including minutes (discussion points) and video reco
 
 The TWG's focus would be on developing innovative solutions to address the most pressing challenges in the Flow blockchain ecosystem, such as:
 
-•	State Bloating: Developing economic solutions to address state bloat, such as revising minimum balance requirements and revisiting storage-related incentives.
-•	Low Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
-•	High Token Inflation: Implementing strategies to reduce token inflation.
-•	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance decentralization and network security.
-•	Decentralization of Consensus: Promoting decentralization of consensus through increased node distribution.
-•	Competitive Yields for Nodes: Developing strategies to promote competitive yields for nodes.
+*	State Bloating: Developing economic solutions to address state bloat, such as revising minimum balance requirements and revisiting storage-related incentives.
+*	Low Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
+*	High Token Inflation: Implementing strategies to reduce token inflation.
+*	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance decentralization and network security.
+*	Decentralization of Consensus: Promoting decentralization of consensus through increased node distribution.
+*	Competitive Yields for Nodes: Developing strategies to promote competitive yields for nodes.
 
 ### Last Word
 
