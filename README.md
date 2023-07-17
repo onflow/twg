@@ -63,13 +63,12 @@ The latest meeting details, including minutes (discussion points) and video reco
 
 ### TWG Priorities (TBD)
 
-The TWG's focus would be on developing innovative solutions to address the most pressing challenges in the Flow blockchain ecosystem, such as:
+The TWG's focus would be on developing innovative solutions to upcoming challenges in the Flow ecosystem, such as:
 
-*	State Bloating: Developing economic solutions to address state bloat, such as revising minimum balance requirements and revisiting storage-related incentives.
-*	Low Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
-*	High Token Inflation: Implementing strategies to reduce token inflation.
-*	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance decentralization and network security.
-*	Decentralization of Consensus: Promoting decentralization of consensus through increased node distribution.
+*	Managing unbounded state growth: Developing economic solutions to manage unbounded state growth, such as revising minimum balance requirements and revisiting storage-related incentives.
+*	Fine-tuning Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
+*	Revisiting Inflation: Constantly assess and revisit FLOW token inflation and operator rewards.
+*	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance network security.
 *	Competitive Yields for Nodes: Developing strategies to promote competitive yields for nodes.
 
 ### Last Word
