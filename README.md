@@ -69,7 +69,6 @@ The TWG's focus would be on developing innovative solutions to upcoming challeng
 *	Fine-tuning Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
 *	Revisiting Inflation: Constantly assess and revisit FLOW token inflation and operator rewards.
 *	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance network security.
-*	Competitive Yields for Nodes: Developing strategies to promote competitive yields for nodes.
 
 ### Last Word
 
