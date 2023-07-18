@@ -67,7 +67,7 @@ The TWG's focus would be on developing innovative solutions to upcoming challeng
 
 *	Managing unbounded state growth: Developing economic solutions to manage unbounded state growth, such as revising minimum balance requirements and revisiting storage-related incentives.
 *	Fine-tuning Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
-*	Revisiting Inflation: Constantly assess and revisit FLOW token inflation and operator rewards.
+*	Revisiting Inflation: Constantly revisit and evaluate FLOW token inflation and operator rewards.
 *	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance network security.
 
 ### Last Word
