@@ -66,7 +66,7 @@ The latest meeting details, including minutes (discussion points) and video reco
 The TWG's focus would be on developing innovative solutions to upcoming challenges in the Flow ecosystem, such as:
 
 *	Managing unbounded state growth: Developing economic solutions to manage unbounded state growth, such as revising minimum balance requirements and revisiting storage-related incentives.
-*	Fine-tuning Network Fees: Developing strategies to increase network fees and exploring new use cases that require higher fees.
+*	Fine-tuning Network Fees: Developing strategies to adjust network fees as needed.
 *	Revisiting Inflation: Constantly revisit and evaluate FLOW token inflation and operator rewards.
 *	Minimum Staking Requirements: Evaluating and adjusting minimum staking requirements to enhance network security.
 
