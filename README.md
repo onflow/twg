@@ -48,6 +48,7 @@ The TWG consists of talented individuals selected through a community-led proces
 * *Bjarte Stien Karlsen* -	OG flow community member, Creator of find.xyz, FLIP author, Service-Account signer
 * *Luca Basile* -	CEO @ Flovatar, Dapp developer, Active community member
 * *Lucas Myers* -	Engineering @ evaluate.xyz, Flow dApp developer; 7 years of software and data science experience
+* *Chris Hoorenman* - FLOW enthusiast, Develops trading scripts for NFT/ DeFi platforms; background in private equity 
 * *Nishanta Dharmaseri* -	Co-founder @ Flowverse, background in economics and actuaries
 * *Sean Robb* -	EM @ Dapper Wallet, ex-Mastercard, 10 years of engineering experience
 * *Lucas Naundorf* -	Flow Validator @ Deutsche Telekom MMS, Blockchain Consultant and Product Owner (staking)
