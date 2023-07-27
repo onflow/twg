@@ -67,3 +67,9 @@
 
       e. GitHub TWG repo to be updated with meeting minutes
 
+**Links**
+
+[Video recording](https://www.youtube.com/watch?v=pV7nte_WumE) of the meeting
+
+[Full meeting transcript](https://docs.google.com/document/d/1gzDqUE47EmlXPCWHdNsH1EAiibAyYSBxO8d6aWw_380) (transcribed by read.ai)
+
