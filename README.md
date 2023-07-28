@@ -43,7 +43,7 @@ The TWG consists of talented individuals selected through a community-led proces
 * *Michael Levy* -	Co-founder @flowty, Early Flow community member, OG Topshot collector
 * *"bz"* -	Co-founder @ Flowverse, Flow Ambassador, Cadence Developer
 * *Antoni Palazzolo* -	Founder @ Barter Yard Club (NFT swap tool & NFT collection on Flow)
-* *Jonny* -	IncrementiFi core team, Cadence & Solidity developer; Solid background in DeFi and Tokenomics
+* *Jonny* -	Cofounder @ IncrementFi (DeFi platform on Flow), Solid background in DeFi and Tokenomics
 * *Lu* -	NuFi Project Manager; Winner of Flow hackathon
 * *Bjarte Stien Karlsen* -	OG flow community member, Creator of find.xyz, FLIP author, Service-Account signer
 * *Luca Basile* -	CEO @ Flovatar, Dapp developer, Active community member
