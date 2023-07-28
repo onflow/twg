@@ -14,7 +14,7 @@
 7. Luca Basile
 8. Jonny
 9. Kshitij Chaudhary
-10. Ľuboš Švolík
+10. Lu
 11. Lucas
 12. Lucas Myers
 13. Nishanta Dharmaseri
