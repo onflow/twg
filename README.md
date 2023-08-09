@@ -41,7 +41,7 @@ The TWG consists of talented individuals selected through a community-led proces
 * *Anthony Darvall* -	Founder @ Traderflow, Macroeconomist, ex- Head Forex Dealer @ EasyMarkets
 * *Dan Malinovski* -	Co-founder & CEO @ Simplicity Group, Token Architect, Economist
 * *Michael Levy* -	Co-founder @flowty, Early Flow community member, OG Topshot collector
-* *"bz"* -	Co-founder @ Flowverse, Flow Ambassador, Cadence Developer
+* *"bz"* -	Co-founder @ Basic Beasts, Flow Ambassador, Cadence Developer
 * *Antoni Palazzolo* -	Founder @ Barter Yard Club (NFT swap tool & NFT collection on Flow)
 * *Jonny* -	Cofounder @ IncrementFi (DeFi platform on Flow), Solid background in DeFi and Tokenomics
 * *Lu* -	NuFi Project Manager; Winner of Flow hackathon
