@@ -23,7 +23,7 @@
 16. Vishal Changrani
 
 **Meeting Minutes**
-1. The meeting commenced with a warm welcome and a fruitful discussion about the motivation, objectives, and the community-driven selection process for the Tokenomics Working Group.
+1. The meeting commenced with a warm welcome and a discussion about the motivation, objectives, and the community-driven selection process for the Tokenomics Working Group.
 2. Following that, all members introduced themselves, and there was unanimous agreement on the group's strengths and the value brought by its diverse composition.
 3. Subsequently, members shared their primary tokenomics concerns that they believe should be the focal points for upcoming meetings.
 
@@ -42,6 +42,8 @@
       g. **Availability of Tokenomics Data**: Members emphasized the importance of freely accessible tokenomics data, including state size, transaction fee collection, staked flow, operated flow, delegated flow, rewards, etc., to enhance transparency and analysis.
 
       h. **User Incentives**: Members advocated for revisiting user incentives, not solely focusing on validator incentives, and considered employing a suitable DeFi model, such as GMX's GLP model that rewards ecosystem participation of all forms. 
+
+      i. **Storage Fee**: Several state storage mechanisms were explored, ranging from a 100x storage fee increase (currently live in FLIP), to integrating storage charges during data or asset creation (user-friendly approach), introducing a garbage collection economy for eliminating stale data and reclaiming FLOW tokens, and considering the distinction between withdrawable and total balance for enhanced user clarity.
 
 4. **Key Administrative Decisions**
 
