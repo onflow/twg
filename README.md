@@ -1,3 +1,8 @@
+> [!Caution]
+> The Tokenomics Working Group repo has been moved to [Flow-Working-Groups/governance_working_group/tokenomics_working_group](https://github.com/onflow/Flow-Working-Groups/tree/main/governance_working_group/tokenomics_working_group)
+>
+> Please do NOT use this repo.
+
 ## Flow Tokenomics Working Group (TWG)
 
 ### Introduction
